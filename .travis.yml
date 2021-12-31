@@ -17,7 +17,7 @@ script:
   # Assuming the .travis.yml file is in the project directory, and there is a separate sub-directory for each service
   # Use either `docker-compose` or individual `docker build` commands
   # Build
-  - docker build -t reverseproxy .
+  - docker build -t udagram-reverseproxy .
   - docker build -t udagram-api-feed .
   - docker build -t udagram-api-user .
   - docker build -t udagram-frontend .
