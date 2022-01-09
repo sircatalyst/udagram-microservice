@@ -45,3 +45,16 @@ UserInterfaceState.xcuserstate
 node_modules
 set_env_example.sh
 set_env.sh
+
+aws-secret.yaml
+env-secret.yaml
+env-configmap.yaml
+
+udagram-api-feed-deployment.yaml
+udagram-api-feed-service.yaml
+udagram-api-user-deployment.yaml
+udagram-api-user-service.yaml
+udagram-api-frontend-deployment.yaml
+udagram-api-frontend-service.yaml
+udagram-reverseproxy-deployment.yaml
+udagram-reverseproxy-service.yaml
